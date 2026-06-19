@@ -1,6 +1,8 @@
 ### Hey you there! 👋 :grin:
 
-Hi, I'm Cassiano Calian, I'm a beginner frontend developer. Currently, I'm learning and working on projects with:  
+**`Desenvolvedor FullStack`**
+
+Sou o Cassiano, tenho 28 anos, sou desenvolvedor e estudante de Engenharia de Software apaixonado por construir aplicações web modernas e extrair insights valiosos através da análise de dados. Gosto de unir código limpo com um bom design de interface.Atualmente, divido meu tempo entre o desenvolvimento web, a faculdade, e os estudos preparatórios para concursos públicos.
 
 <br>
 <br>
