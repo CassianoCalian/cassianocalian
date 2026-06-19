@@ -2,11 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
+<br>
+
 Sou o Cassiano, tenho 28 anos, sou desenvolvedor e estudante de Engenharia de Software apaixonado por construir aplicações web modernas e extrair insights valiosos através da análise de dados. Gosto de unir código limpo com um bom design de interface.Atualmente, divido meu tempo entre o desenvolvimento web, a faculdade, e os estudos preparatórios para concursos públicos.
 
 <br>
 <br>
-<br>
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -123,7 +125,6 @@ Sou o Cassiano, tenho 28 anos, sou desenvolvedor e estudante de Engenharia de So
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### Connect with me:
