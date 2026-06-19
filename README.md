@@ -1,12 +1,8 @@
 ### Hey you there! 👋 :grin:
 
 Hi, I'm Cassiano Calian, I'm a beginner frontend developer. Currently, I'm learning and working on projects with:  
-<br>
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 <br>
-and starting to learn:
 <br>
 <br>
 
