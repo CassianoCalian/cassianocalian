@@ -2,12 +2,23 @@
 
 **`Desenvolvedor FullStack`**
 
-<br>
+👋 Olá! Eu sou o Cassiano.
 
-Sou o Cassiano, tenho 28 anos, sou desenvolvedor e estudante de Engenharia de Software apaixonado por construir aplicações web modernas e extrair insights valiosos através da análise de dados. Gosto de unir código limpo com um bom design de interface.Atualmente, divido meu tempo entre o desenvolvimento web, a faculdade, e os estudos preparatórios para concursos públicos.
+🎓 Estudante de Engenharia de Software e desenvolvedor Front-End em constante evolução.
 
-<br>
-<br>
+💻 Apaixonado por tecnologia, desenvolvimento web e pela criação de interfaces modernas, responsivas e acessíveis.
+
+🚀 Atualmente estudo:
+• HTML5
+• CSS3
+• JavaScript
+• APIs REST
+• Git e GitHub
+• React
+
+📚 Acredito que aprender é um processo contínuo. Estou sempre desenvolvendo novos projetos para aprimorar minhas habilidades e transformar conhecimento em soluções.
+
+"Cada linha de código é uma oportunidade de evoluir."
 
 
 ### 🤖 Linguagens e Tecnologias
