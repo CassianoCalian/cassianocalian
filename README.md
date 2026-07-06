@@ -1,153 +1,119 @@
-### Hey you there! 👋 :grin:
+<h1 align="center">Olá! Eu sou o Cassiano 👋</h1>
 
-**`Desenvolvedor FullStack`**
+<h3 align="center">
+🎓 Estudante de Engenharia de Software • 💻 Desenvolvedor Front-End
+</h3>
 
-👋 Olá! Eu sou o Cassiano.
-
-🎓 Estudante de Engenharia de Software e desenvolvedor Front-End em constante evolução.
-
-💻 Apaixonado por tecnologia, desenvolvimento web e pela criação de interfaces modernas, responsivas e acessíveis.
-
-🚀 Atualmente estudo:
-• HTML5
-• CSS3
-• JavaScript
-• APIs REST
-• Git e GitHub
-• React
-
-📚 Acredito que aprender é um processo contínuo. Estou sempre desenvolvendo novos projetos para aprimorar minhas habilidades e transformar conhecimento em soluções.
-
-"Cada linha de código é uma oportunidade de evoluir."
-
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-
-### Connect with me:
-
-<p>
-  <a href="https://www.linkedin.com/in/cassianocaliann/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> 
-  </a>
+<p align="center">
+Transformando ideias em código, um projeto de cada vez.
 </p>
-<br>
-<br>
 
-![Cassiano´s GitHub stats](https://github-readme-stats.vercel.app/api?username=cassianocalian&show_icons=true&theme=merko)
-__
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassianocalian&hide_progress=false)
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software
+- 💻 Apaixonado por Desenvolvimento Front-End
+- 📚 Sempre aprendendo novas tecnologias
+- 🌎 Estudando Inglês, Espanhol e Francês
+- 💡 Gosto de transformar desafios em soluções através da programação
+- 🚀 Construindo projetos para evoluir diariamente
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+
+<img alt="HTML" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img alt="CSS" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img alt="VSCode" title="VSCode" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+</p>
+
+---
+
+## 📖 Atualmente estudando
+
+✔ React
+
+✔ APIs REST
+
+✔ Git e GitHub
+
+✔ Boas práticas de JavaScript
+
+✔ Engenharia de Software
+
+✔ Scrum e Metodologias Ágeis
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassianocalian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianocalian&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=cassianocalian&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 Troféus do GitHub
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cassianocalian&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 📈 Gráfico de Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cassianocalian&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/cassianocaliann/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Frase
+
+> "Cada projeto é uma oportunidade para aprender, evoluir e construir algo que faça a diferença."
+
