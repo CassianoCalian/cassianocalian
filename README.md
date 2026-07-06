@@ -62,10 +62,9 @@ Transformando ideias em código, um projeto de cada vez.
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassianocalian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianocalian&layout=compact&theme=tokyonight"/>
+<img
+height="180em"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=CassianoCalian&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -81,15 +80,6 @@ Transformando ideias em código, um projeto de cada vez.
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cassianocalian&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 ## 📈 Gráfico de Contribuições
 
